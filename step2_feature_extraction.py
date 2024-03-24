@@ -5,21 +5,21 @@ import os
 
 def SkeletonInfo():
     num_joints = 20
-    limb_info = [[2, 3],  # 01. shoulder right
-                 [3, 5],  # 02. arm right
-                 [5, 7],  # 03. forearm right
-                 [7, 9],  # 04. hand right
+    limb_info = [[2, 3],    # 01. shoulder right
+                 [3, 5],    # 02. arm right
+                 [5, 7],    # 03. forearm right
+                 [7, 9],    # 04. hand right
                  [12, 13],  # 05. hip right
                  [13, 15],  # 06. thigh right
                  [15, 17],  # 07. leg right
                  [17, 19],  # 08. foot right
-                 [1, 2],  # 09. neck
-                 [2, 11],  # 10. upper spine
+                 [1, 2],    # 09. neck
+                 [2, 11],   # 10. upper spine
                  [11, 12],  # 11. lower spine
-                 [2, 4],  # 12. shoulder left
-                 [4, 6],  # 13. arm left
-                 [6, 8],  # 14. forearm left
-                 [8, 10],  # 15. hand left
+                 [2, 4],    # 12. shoulder left
+                 [4, 6],    # 13. arm left
+                 [6, 8],    # 14. forearm left
+                 [8, 10],   # 15. hand left
                  [12, 14],  # 16. hip left
                  [14, 16],  # 17. thigh left
                  [16, 18],  # 18. leg left
