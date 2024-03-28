@@ -6,7 +6,7 @@
 
 # Introduction
 
-On this web page, we provide the Python implementation of the gender classification method proposed in our paper titled '[Gait-Based Gender Classification Using a Correlation-Based Feature Selection Technique](https://doi.org/10.9708/jksci.2024.29.03.041).' In this study, we proposed a method to select features that are useful for gender classification using a correlation-based feature selection technique. To demonstrate the effectiveness of the proposed feature selection technique, we compared the performance of gender classification models before and after applying the proposed feature selection technique using a three dimensional gait dataset available on the Internet. Eight machine learning algorithms applicable to binary classification problems were utilized in the experiments. The experimental results showed that the proposed feature selection technique can reduce the number of features by 22, from 82 to 60, while maintaining the gender classification performance.
+On this web page, we provide the Python implementation of the gender classification method proposed in our paper titled '[Gait-Based Gender Classification Using a Correlation-Based Feature Selection Technique](https://doi.org/10.9708/jksci.2024.29.03.055).' In this study, we proposed a method to select features that are useful for gender classification using a correlation-based feature selection technique. To demonstrate the effectiveness of the proposed feature selection technique, we compared the performance of gender classification models before and after applying the proposed feature selection technique using a three dimensional gait dataset available on the Internet. Eight machine learning algorithms applicable to binary classification problems were utilized in the experiments. The experimental results showed that the proposed feature selection technique can reduce the number of features by 22, from 82 to 60, while maintaining the gender classification performance.
 
 # How to Run
 
@@ -62,11 +62,11 @@ Paper link: [Joint Swing Energy for Skeleton-Based Gender Classification](https:
   year={2024},
   volume={29},
   number={3},
-  pages={41--51},
-  doi={10.9708/jksci.2024.29.03.041}
+  pages={55--66},
+  doi={10.9708/jksci.2024.29.03.055}
 }
 ```
-Paper link: [Gait-Based Gender Classification Using a Correlation-Based Feature Selection Technique](https://doi.org/10.9708/jksci.2024.29.03.041)
+Paper link: [Gait-Based Gender Classification Using a Correlation-Based Feature Selection Technique](https://doi.org/10.9708/jksci.2024.29.03.055)
 
 # License
 
